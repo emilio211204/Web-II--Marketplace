@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "nombre": "Abogado",
+        "descripcion": "Asesoría legal en diversas áreas del derecho, como penal, civil, y laboral.",
+        "precio": 100,
+        "categoria": "Derecho",
+        "imagen": "assets/imagenes/abogado.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Plomero",
+        "descripcion": "Servicios de reparación, instalación y mantenimiento de sistemas de fontanería.",
+        "precio": 80,
+        "categoria": "Hogar",
+        "imagen": "assets/imagenes/plomero.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Arquitecto",
+        "descripcion": "Diseño y planificación de proyectos arquitectónicos y urbanísticos.",
+        "precio": 120,
+        "categoria": "Arquitectura",
+        "imagen": "assets/imagenes/arquitecto.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Médico General",
+        "descripcion": "Consultas médicas, diagnóstico y tratamiento para enfermedades comunes.",
+        "precio": 50,
+        "categoria": "Salud",
+        "imagen": "assets/imagenes/medico.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Psicólogo",
+        "descripcion": "Consultas terapéuticas para mejorar el bienestar emocional y psicológico.",
+        "precio": 60,
+        "categoria": "Salud Mental",
+        "imagen": "assets/imagenes/psicologo.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Carpintero",
+        "descripcion": "Servicios de carpintería para fabricación, reparación y diseño de muebles y estructuras de madera.",
+        "precio": 100,
+        "categoria": "Carpintería",
+        "imagen": "assets/imagenes/carpintero.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Diseñador Gráfico",
+        "descripcion": "Diseño de logotipos, branding, materiales publicitarios y más.",
+        "precio": 70,
+        "categoria": "Diseño",
+        "imagen": "assets/imagenes/diseñadorg.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Profesor de Idiomas",
+        "descripcion": "Clases de idiomas, como inglés, francés, alemán, y más.",
+        "precio": 40,
+        "categoria": "Educación",
+        "imagen": "assets/imagenes/profesori.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Chef",
+        "descripcion": "Preparación de menús personalizados, catering y clases de cocina.",
+        "precio": 200,
+        "categoria": "Gastronomía",
+        "imagen": "assets/imagenes/chef.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Fotógrafo",
+        "descripcion": "Sesiones fotográficas para eventos, retratos y proyectos especiales.",
+        "precio": 100,
+        "categoria": "Arte y Medios",
+        "imagen": "assets/imagenes/fotografo.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Jardinero",
+        "descripcion": "Servicios de jardinería, mantenimiento de áreas verdes, poda y diseño de jardines.",
+        "precio": 120,
+        "categoria": "Jardinería",
+        "imagen": "assets/imagenes/jardinero.jpg"
+    },    
+    {
+        "id": 12,
+        "nombre": "Electricista",
+        "descripcion": "Instalación, mantenimiento y reparación de sistemas eléctricos en hogares y empresas.",
+        "precio": 80,
+        "categoria": "Electricidad",
+        "imagen": "assets/imagenes/electricista.jpg"
+    }
+    
+]
